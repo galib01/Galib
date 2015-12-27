@@ -14,4 +14,8 @@ public class Bnz {
 		System.out.println(e*z);
 		System.out.println(10-5);
 	}
+	void m()
+	{
+		System.out.println(e+z);
+	}
 }
