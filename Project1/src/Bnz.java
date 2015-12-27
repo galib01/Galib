@@ -18,4 +18,8 @@ public class Bnz {
 	{
 		System.out.println(e+z);
 	}
+	void gc()
+	{
+		System.out.println(e-z);
+	}
 }
