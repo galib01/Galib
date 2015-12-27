@@ -22,4 +22,12 @@ public class Bnz {
 	{
 		System.out.println(e-z);
 	}
+	void mash()
+	{
+		System.out.println(e*z);
+	}
+	
+	
+		
+	
 }
